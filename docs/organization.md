@@ -39,6 +39,7 @@ All team members will be involved in coding.
 All team members will be involved in testing.
 
 * Unit Testing
+	* Serious lack of unit testing. 
 * Play Testing
 	* All team members involved in play testing. 
 
@@ -47,4 +48,6 @@ All team members will be involved in testing.
 All team members will be involved in documentation.
 
 * How to Play
+	* Worked on by Kris, Jeremy, and Leo.
 * API Documentation
+	* Worked on by Alan. 
