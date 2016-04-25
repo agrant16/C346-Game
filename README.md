@@ -29,12 +29,12 @@ Zombiefied is a zombie surival game. Your goal is to survive the zombie infested
 * You have three main attributes, Health, Thirst and Hunger. Thirst and Hunger will decrement over time keeping you on the lookout for any food and water drops throughout the world to replenish these attributes.
 * If Hunger or Thirst reaches 0 then your Health will slowly start to decrement until you find the appropriate resource.
 
-### The Process
+## The Process
 
-## Development
+### Development
 Our group agreed to develop a video game in the Unity Graphics Engine. We initially decided to design a survival game in a rogue like format with a turn based attack system. However our design changed and our game expanded to include features that are not typical of a rogue like adventure. We wanted to implement a more survival like setting in which the player must not only defend themselves against zombies but must also gather food and water to stay alive. 
 
-## Challenges
+### Challenges
 * Unit testing within Unity was a challenge. Due to Unity handling many functions behind the scenes some processes could not be unit testing within scripts. 
 * The Unity interface was new to most of us and figuring out how to navigate the interface and how it strung the scripts and assets together was a challenge. 
 * We wanted to design a random cave generator that the player could explore apart from the overworld. While our generator design was successful, we were unable to successfully connect it to the rest of our game and thus this feature remains only partially complete.
