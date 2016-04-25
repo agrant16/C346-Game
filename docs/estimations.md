@@ -14,6 +14,7 @@ This document covers our estimations of effort for various tasks involved with o
 | UI design 			| 8			|	Jeremy, Alan			|	5	|
 | Basic Player Logic		| 2			| Alan				| 2		|
 | Advanced Player Logic		| 4			| 				|		|
-| Item System 			| 8			|				|		|
+| Item System 			| 8			|		Jeremy		|	4	|
 | Documentation 		| 4			|				|		|
-| Testing			| 6			| Alan, Kris			| Ongoing	|
+| Play Testing			| 6			| Alan, Kris, Jeremy			| Ongoing	|
+| Unit Testing      | 8     |       |
