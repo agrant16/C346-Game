@@ -2,16 +2,9 @@
 
 This document details the organizational structure of our team. For most activities all team members will be involved to some degree. As we begin to work out which team members will take a greater responsiblity in which areas this document will be modified to reflect those decisions. 
 
-### Project Manager
+### Project Manager (Kind of)
 
 Alan Grant
-
-### Art Assets
-
-All team members will be involved in developing art for the game. 
-
-* Sprite Art and Animation
-* Level Tiles
 
 ### Coding
 
@@ -19,15 +12,15 @@ All team members will be involved in coding.
 
 * Game Logic
    * Enemy Logic
-   		* Currently being worked on by Alan
+   		* Worked on by Alan and Jeremy.
    * Player Logic
-   		* Currently being worked on by Alan
+   		* Worked on by Alan and Jeremy.
    * Combat Logic
-   		* Currently being worked on by Alan
+   		* Worked on by Alan and Jeremy.
    * Leveling System
    * Level Generation
    		* Overland levels
-			* Currently being worked on by Alan
+			* Worked on by Alan
 		* Cave levels
 			* Currently being worked on by Alan
 * UI
