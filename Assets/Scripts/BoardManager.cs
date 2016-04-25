@@ -18,7 +18,7 @@ public class BoardManager : MonoBehaviour
 		/// <summary>
 		/// Stores the minimum number for the range.
 		/// </summary>
-		public int minimum; 	\
+		public int minimum; 	
 
 		/// <summary>
 		/// Stores the maximum number for the range. 

@@ -233,12 +233,12 @@ public class Player : MovingObject
                 water = 0;
                 health -= 2;
             }
-            else if(food <= 0)
+            if(food <= 0)
             {
                 food = 0;
                 health -= 1;
             }
-            else
+            if(water > 0 && food > 0)
             {
                 health += 1;
             }
@@ -248,6 +248,7 @@ public class Player : MovingObject
                 water = 200;
             if (food >= 200)
                 food = 200;
+            CheckIfGameOver();
             UpdateHUDSliders();
 		}
             
