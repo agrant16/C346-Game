@@ -26,8 +26,10 @@ Zombiefied is a zombie surival game. Your goal is to survive the zombie infested
 
 * Use the Left, Right, Up and Down arrow keys to navigate the playing board. 
 * To attack a zombie walk towards and against the enemy until he is dead.
-* You have three main attributes, Health, Thirst and Hunger. Thirst and Hunger will decrement over time keeping you on the lookout for any food and water drops throughout the world to replenish these attributes.
-* If Hunger or Thirst reaches 0 then your Health will slowly start to decrement until you find the appropriate resource.
+* You have three main attributes, *Health*, *Thirst* and *Hunger*. *Thirst* and *Hunger* will decrement over time keeping you on the lookout for any food and water drops throughout the world to replenish these attributes.
+* If *Hunger* or *Thirst* reaches 0 then your *Health* will slowly start to decrement until you find the appropriate resource.
+* Enemy zombies will also attack and take your *Health* away.
+* When your *Hunger* and *Thirst* are above zero, you will regenerate *Health*.
 
 ## The Process
 
