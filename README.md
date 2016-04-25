@@ -9,7 +9,8 @@ Group Project for Introduction to Software Engineering
 * [Leodan Diaz Aguilera](https://github.com/diazl2001)
 
 [API Documentation](http://kurfew007.github.io/C346-Game/)
-
+[Organization](https://github.com/kurfew007/C346-Game/blob/master/docs/organization.md)
+[Estimations](https://github.com/kurfew007/C346-Game/blob/master/docs/estimations.md)
 
 ## What is Zombiefied?
 
