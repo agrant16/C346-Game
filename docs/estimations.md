@@ -15,6 +15,6 @@ This document covers our estimations of effort for various tasks involved with o
 | Basic Player Logic		| 2			| Alan				| 2		|
 | Advanced Player Logic		| 4			| 				|		|
 | Item System 			| 8			|		Jeremy		|	4	|
-| Documentation 		| 4			|				|		|
+| Documentation 		| 4			|		Alan, Jeremy, Kris, Leo		|	3	|
 | Play Testing			| 6			| Alan, Kris, Jeremy			| Ongoing	|
 | Unit Testing      | 8     |       |
