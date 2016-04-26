@@ -1,19 +1,4 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Gist
- @kurfew007
- Watch 1,612
-  Star 35,743
-  Fork 13,563 github/gitignore
- Code  Pull requests 115  Pulse  Graphs
-Branch: master Find file Copy pathgitignore/Unity.gitignore
-1199897  Jan 27, 2016
-@shiftkey shiftkey Merge pull request #1631 from ahmedbaracat/patch-1
-12 contributors @mviranyi @ahmyi @ahmedbaracat @ChemiKhazi @jephir @jstasiak @Frozenfire92 @Tandoori @cl4rke @shiftkey @vvolkgang @tim-hub
-RawBlameHistory     31 lines (25 sloc)  355 Bytes
+
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
