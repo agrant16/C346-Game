@@ -17,4 +17,4 @@ This document covers our estimations of effort for various tasks involved with o
 | Item System 			| 8			|		Jeremy		|	4	|
 | Documentation 		| 4			|		Alan, Jeremy, Kris, Leo		|	3	|
 | Play Testing			| 6			| Alan, Kris, Jeremy			| Ongoing	|
-| Unit Testing      | 8     |       |
+| Unit Testing      | 8     | Alan, Kris, Jeremy      | Ongoing |
